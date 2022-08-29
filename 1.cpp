@@ -4,7 +4,7 @@ using namespace std;
 #define int long long
 
 void solve(){
-    
+    change 1;
 }
 
 
