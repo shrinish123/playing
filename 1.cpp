@@ -5,6 +5,7 @@ using namespace std;
 
 void solve(){
     change 1;
+    change 2;
 }
 
 
